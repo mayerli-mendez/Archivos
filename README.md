@@ -1,1 +1,1 @@
-# Lab-Repositorio
+# Algoritmos
