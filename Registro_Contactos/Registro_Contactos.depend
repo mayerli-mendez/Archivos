@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1611847840 source:c:\users\luz paredes\documents\registro_contactos\main.cpp
+	<iostream>
+	<fstream>
+
